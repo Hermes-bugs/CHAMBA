@@ -1,2 +1,2 @@
-# CHAMBA
+# gestor-proyecto
 Gestor de Tarea
